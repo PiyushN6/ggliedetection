@@ -1,6 +1,6 @@
 streamlit
 transformers
-torch==2.3.0 --index-url https://download.pytorch.org/whl/cpu
+torch==2.3.0+cpu
 numpy
 streamlit-webrtc
 opencv-python-headless
