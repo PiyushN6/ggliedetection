@@ -1,1 +1,9 @@
-streamlit transformers torch numpy streamlit-webrtc opencv-python-headless av plotly lime
+streamlit
+transformers
+torch==2.3.0 --index-url https://download.pytorch.org/whl/cpu
+numpy
+streamlit-webrtc
+opencv-python-headless
+av
+plotly
+lime
