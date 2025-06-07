@@ -1,6 +1,6 @@
 streamlit
 transformers
-torch==2.3.0  # <--- CHANGED THIS LINE (removed +cpu)
+torch==2.3.0 # Remove +cpu for standard pip install in Docker
 numpy
 streamlit-webrtc
 opencv-python-headless
