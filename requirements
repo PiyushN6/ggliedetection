@@ -1,0 +1,10 @@
+streamlit
+transformers==4.35.0  # Keep this specific version
+tokenizers==0.14.1    # This version is compatible with transformers 4.35.0
+torch==2.3.0
+numpy
+streamlit-webrtc
+opencv-python-headless
+av
+plotly
+lime

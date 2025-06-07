@@ -1,9 +1,0 @@
-streamlit
-transformers
-torch==2.3.0 # Remove +cpu for standard pip install in Docker
-numpy
-streamlit-webrtc
-opencv-python-headless
-av
-plotly
-lime
