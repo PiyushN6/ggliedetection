@@ -1,6 +1,6 @@
 streamlit
-transformers==4.35.0  # Keep this specific version
-tokenizers==0.14.1    # This version is compatible with transformers 4.35.0
+transformers==4.38.0  # Updated version
+tokenizers==0.15.0    # Compatible with transformers 4.38.0
 torch==2.3.0
 numpy
 streamlit-webrtc
